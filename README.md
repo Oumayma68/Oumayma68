@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="mailto:oumayma.mhamdi@gmail.com">
+<a href="mailto:oumayma.mhamdi12@gmail.com">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="40" height="40" alt="Email"/>
 </a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/oumayma-mhamdi-435987202">
