@@ -114,18 +114,6 @@ I'm starting to write about data engineering — posts coming soon!
 
 ---
 
-## Languages
-
-<div align="center">
-
-![English](https://img.shields.io/badge/English-Professional-0C447C?style=flat-square)
-![French](https://img.shields.io/badge/French-Professional-0C447C?style=flat-square)
-![Arabic](https://img.shields.io/badge/Arabic-Native-1D9E75?style=flat-square)
-
-</div>
-
----
-
 <div align="center">
 
 *Open to data engineering opportunities and technical collaborations*
